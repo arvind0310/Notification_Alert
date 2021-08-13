@@ -1,2 +1,2 @@
 # Notification_Alert
-A Desktop notification system which will remind me that my assignment is due.
+A Desktop notification system that will remind me that my assignment is due.
